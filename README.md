@@ -291,15 +291,19 @@ Follow the [procedure for each task](#procedure-for-each-task).
      - [ ] In the `## Roles and components` section:
         - [ ] For each selected component from `architecture.md`, list IT roles that are likely involved in the development and maintenance of that component.
         - [ ] Use a nested list. Example:
+
+          ```markdown  
           - Mobile app
             - Mobile engineer (iOS/Android)
             - QA
             - ...
           - Payment service
-            - Back end engineer
+            - Back-end engineer
             - DevOps
             - QA
           - ...
+          ```
+
      - [ ] Select any five roles.
         - [ ] Do you know what are the typical responsibilities of that role? Consult an LLM or search engine to find out.
         - [ ] Briefly describe the responsibilities for chosen roles.
