@@ -93,7 +93,9 @@ Actions:
 
 ## `Editor`
 
-Space where you can edit files. See [`Basic Layout`](#basic-layout).
+Space where you can edit files.
+
+Location: see [`Basic Layout`](#basic-layout).
 
 Docs:
 
@@ -103,7 +105,7 @@ Docs:
 
 Menus of extensions on a side of the [`Editor`](#editor).
 
-See [`Basic Layout`](#basic-layout).
+Location: see [`Basic Layout`](#basic-layout).
 
 ## `Primary Sidebar`
 
@@ -289,7 +291,7 @@ Method 2:
 
 View the file tree.
 
-See the [`Activity Bar`](#activity-bar).
+Location: [`Activity Bar`](#activity-bar).
 
 Docs:
 
