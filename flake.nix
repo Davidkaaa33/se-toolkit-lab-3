@@ -41,6 +41,9 @@
                   help = "Lint all Markdown files";
                 }
               ];
+              tools = [
+                pkgs.lychee
+              ];
             };
           };
         };
